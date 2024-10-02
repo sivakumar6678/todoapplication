@@ -1,0 +1,27 @@
+.headertitle{
+    font-size: 2em;
+    color: #333;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.tododetails{
+    font-size: 1.5em;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.tododata {
+    display: flex;
+    font-size: 1.5em;
+    color: #333;
+   
+
+}

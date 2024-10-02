@@ -1,0 +1,7 @@
+.addblock{
+    margin:1rem 20%;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    width: 60%;
+}
